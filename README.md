@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Jhariya</h1>
-<h3 align="center">I'm passionate about Blockchain Development</h3>
+
 
 - 💬 Ask me about **c++ and DSA**
 
